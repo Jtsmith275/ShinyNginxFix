@@ -1,8 +1,8 @@
 # RStudio-nginx-fix
 
-# Instructions
+## Instructions
 
-git clone https://github.com/Jtsmith275/ShinyNginxFix  
-cd ShinyNginxFix  
-chmod +x RStudio-nginx-fix.sh  
-./RStudio-nginx-fix.sh  
+1. git clone https://github.com/Jtsmith275/ShinyNginxFix  
+2. cd ShinyNginxFix  
+3. chmod +x RStudio-nginx-fix.sh  
+4. ./RStudio-nginx-fix.sh  
