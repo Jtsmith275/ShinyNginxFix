@@ -2,7 +2,6 @@
 # R/RStudio/Shiny-Server/nginx on Ubuntu
 
 # Configure nginx with RStudio-Server and Shiny-Server virtualhosts
-sudo cp default /etc/nginx/sites-enabled/default
 sudo cp https://raw.githubusercontent.com/jtsmith275/RStudioNginxFix/master/default -O /etc/nginx/sites-enabled/default
 
 # Restart services
